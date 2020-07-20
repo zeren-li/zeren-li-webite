@@ -1,22 +1,24 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1595285079226.000,
+    "created" : 1595287908343.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2104342896",
-    "id" : "B72B39A9",
+    "hash" : "0",
+    "id" : "251FC71",
     "lastKnownWriteTime" : 1595283517,
     "last_content_update" : 1595283517,
-    "path" : "~/Dropbox/zeren-li-website/config.toml",
-    "project_path" : "config.toml",
+    "path" : "~/Dropbox/zeren-li-website/netlify.toml",
+    "project_path" : "netlify.toml",
     "properties" : {
+        "cursorPosition" : "12,67",
+        "scrollLine" : "2"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 1,
+    "relative_order" : 2,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "toml"
