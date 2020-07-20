@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Zeren Li
 
 # Username (this should match the folder name)
 authors:
@@ -10,66 +10,55 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate in Political Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Duke University
+  url: "https://scholars.duke.edu/person/zeren.li"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+bio:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Political Science
+    institution: Duke University
+    year: 2016--Now
+  - course: M.Phil. in Social Science
+    institution: Hong Kong University of of Science & Technology
+    year: 2016
+  - course: LL.B. in Political Education
+    institution: Fudan University
+    year: 2014
 
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+interests:
+- State-Business Relations
+- Corruption
+- Bureaucracy
+- Data Science
+- Machine Learning
+
+email: "zeren.li@duke.edu"
+
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+- icon: cv
+  icon_pack: ai
+  link: https://www.dropbox.com/s/9xkhahkz9o3p97k/cv_zeren_li_2020.pdf?dl=0
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=49NUuP0AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: https://github.com/zeren-li
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/zeren_li
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D. Candidate in the Department of Political Science at Duke University. My research interests include political economy, authoritarian politics, and data science. My dissertation analyzes the pattern, formation, and economic outcome of the political-business revolving door in China. My research is supported by the Chiang Ching-Kuo Foundation, the China Cultural Times Foundation, and various other research grants.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
