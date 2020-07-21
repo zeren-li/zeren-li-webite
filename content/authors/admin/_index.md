@@ -60,5 +60,5 @@ social:
 
 ---
 
-I am a Ph.D. Candidate in the Department of Political Science at Duke University. My research interests include political economy, authoritarian politics, and data science. My dissertation analyzes the pattern, formation, and economic outcome of the political-business revolving door in China. My research is supported by the Chiang Ching-Kuo Foundation, the China Cultural Times Foundation, and various other research grants.
+I am a Ph.D. Candidate in the Department of Political Science at Duke University. My research interests include political economy, authoritarian politics, and data science. My dissertation analyzes the pattern, formation, and economic outcome of the political-business revolving door in China. My research is supported by Google Cloud Platform, the Chiang Ching-Kuo Foundation, the China Cultural Times Foundation, and various other research grants.
 
