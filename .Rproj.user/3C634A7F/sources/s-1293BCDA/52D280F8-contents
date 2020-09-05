@@ -10,6 +10,7 @@ title = "Data"
 #subtitle = "Chinese Revolving-Door Officials Database"
 
 +++
+
 ## China Revolving-Door Officials Database
 
 The Chinese Revolving-Door Officials Database contains extensive demographic and career information of over 10,000 government officials who serve on the board of all Chinese publicly listed firms since the 2000s. The database is consist of three parts:
@@ -17,7 +18,8 @@ The Chinese Revolving-Door Officials Database contains extensive demographic and
 - standardized career experience information;
 - visualization of their political network.
 
-## Chinese Public-Private Partnership Database
+
+## Chinese Public-Private Partnership Database 
 
 Chinese Public-Private Partnership Database provides detailed information of all Public-Private Partnership (PPP) projects contracted by various levels of governments in China from 2013. The database includes:
 
