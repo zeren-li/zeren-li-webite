@@ -1,8 +1,8 @@
 {
-    "path" : "~/Dropbox/zeren-li-website/content/home",
+    "path" : "~/Dropbox/zeren-li-website/content/authors/admin",
     "sortOrder" : [
         {
-            "ascending" : false,
+            "ascending" : true,
             "columnIndex" : 2
         }
     ]

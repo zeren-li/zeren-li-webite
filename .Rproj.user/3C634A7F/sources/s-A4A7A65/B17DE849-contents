@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Political Science
+role: Ph.D. Candidate in Political Science
 
 # Organizations/Affiliations
 organizations:
@@ -23,13 +23,13 @@ bio:
 
 education:
   courses:
-  - course: PhD in Political Science
+  - course: Ph.D. in Political Science
     institution: Duke University
     year: 2016–Present
-  - course: MPhil in Social Science
+  - course: M.Phil. in Social Science
     institution: Hong Kong University of Science & Technology
     year: 2014–2016
-  - course: LLB in Political Science
+  - course: LL.B. in Political Science
     institution: Fudan University
     year: 2010–2014
 
@@ -39,14 +39,14 @@ interests:
 - Good Gornvorance
 - Authoritarianism
 - Chinese Politics
-- Data Science
+- Machine Learning
 
 email: "zeren.li@duke.edu"
 
 social:
 - icon: cv
   icon_pack: ai
-  link: https://www.dropbox.com/s/uo1k3oc3ketdyzy/cv_zeren_li_2020.pdf?dl=0
+  link: https://www.dropbox.com/s/9xkhahkz9o3p97k/cv_zeren_li_2020.pdf?dl=0
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=49NUuP0AAAAJ&hl=en
@@ -62,7 +62,7 @@ social:
 
 ---
 
-I am a PhD Candidate of Political Science at Duke University. My research focuses on business-state relations, bureaucracy, good governance, and authoritarian politics with a regional interest in China. Methodologically, I am interested in the "Big Data" analysis of state-business relations. For my dissertation and other research projects, I develop automated methods for collecting and matching extensive administrative data and create two original databases: the Chinese Revolving-Door Officials Database and the Chinese Public-Private Partnership Database. 
+I am a Ph.D. Candidate in the Department of Political Science at Duke University. My research focuses on state-business relations, good gorvernance, bureaucracy, authoritarian politics with a regional interest in China. My dissertation analyzes the pattern, formation, and economic outcome of the political-business revolving door in China. I empirically test the theory using various methods including natural language processing, survey experiment, and qualitative intervews.
 
-My research has been funded by institutions including National Science Foundation, Google Cloud Platform, the Chiang Ching-Kuo Foundation, and other research grants.
+My research is supported by Google, the Chiang Ching-Kuo Foundation and various other research grants.
 
