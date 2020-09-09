@@ -25,13 +25,13 @@ education:
   courses:
   - course: PhD in Political Science
     institution: Duke University
-    year: 2016–Present
+    year: 2021 (expected)
   - course: MPhil in Social Science
     institution: Hong Kong University of Science & Technology
-    year: 2014–2016
+    year: 2014
   - course: LLB in Political Science
     institution: Fudan University
-    year: 2010–2014
+    year: 2010
 
 interests:
 - State-Business Relations
