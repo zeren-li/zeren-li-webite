@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -254,9 +254,7 @@ h6 {
 </style>
 
 
-</head>
 
-<body>
 
 <style type="text/css">
 .main-container {
@@ -270,7 +268,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -281,11 +278,12 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
+summary {
+  display: list-item;
+}
 </style>
 
 
-
-<div class="container-fluid main-container">
 
 <!-- tabsets -->
 
@@ -331,6 +329,7 @@ button.code-folding-btn:focus {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -343,20 +342,17 @@ button.code-folding-btn:focus {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -370,7 +366,8 @@ $(document).ready(function () {
 </div>
 
 
-<p>Zeren Li is a Ph.D. student in the Department of Political Science at Duke University. His research interests encompass a variety of topics, including political economy, authoritarian politics and political methodology. Prior to joining Duke, he received his Bachelor Degree in Law from Fudan University and MPhil in Social Science from the Hong Kong University of Science and Technology.</p>
+<p>I am a PhD Candidate of Political Science at Duke University. My research focuses on business-state relations, bureaucracy, good governance, and authoritarian politics with a regional interest in China. Methodologically, I am interested in the “Big Data” analysis of state-business relations. For my dissertation and other research projects, I develop automated methods for collecting and matching extensive administrative data and create two original databases: the Chinese Revolving-Door Officials Database and the Chinese Public-Private Partnership Database.</p>
+<p>My research has been funded by institutions including <a href="https://www.apsanet.org/PROGRAMS/Doctoral-Dissertation-Research-Improvement-Grants">National Science Foundation</a>, <a href="https://cloud.google.com/">Google Cloud Platform</a>, <a href="http://cckf.org/en/news/2020060103">Chiang Ching-Kuo Foundation</a>, and other research grants.</p>
 
 
 
@@ -389,6 +386,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
