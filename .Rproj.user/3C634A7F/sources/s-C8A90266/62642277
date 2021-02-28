@@ -1,0 +1,24 @@
+{
+    "id": "62642277",
+    "path": "~/Dropbox/zeren-li-website/config/_default/menus.toml",
+    "project_path": "config/_default/menus.toml",
+    "type": "toml",
+    "hash": "616341330",
+    "contents": "",
+    "dirty": false,
+    "created": 1599677330579.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "cursorPosition": "12,32",
+        "scrollLine": "6"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1614479324,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1614479324044,
+    "read_only": false,
+    "read_only_alternatives": []
+}

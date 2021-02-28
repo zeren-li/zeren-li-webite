@@ -1,12 +1,12 @@
 ---
-title: "Subsidies for Sale: Postgovernment Career Concerns, Revolving-Door Channels, and Public Resource Misallocation in China"
+title: "Connections as Liabilities: The Cost of the Politics-Business Revolving Door in China"
 authors:
 - Zeren Li
-date: "2021-02-24T00:00:00Z"
+date: "2021-02-23T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-02-24T00:00:00Z"
+publishDate: "2021-2-23T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,18 +18,20 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: While the existing literature focuses on how revolving-door officials can deliver favorable government treatment to firms after leaving public office, this paper theorizes that postgovernment career concerns of public officials distort public resource allocation while they are still in office. To test this theory, I construct a new dataset that links over 70,000 city-level subsidy programs with all city-level revolving-door officials who joined Chinese publicly listed firms between 2007 and 2019. I show that a firm's decision to recruit former officials is conditioned on the subsidies the officials provided while still in public office. I also provide a reduced-form estimate of the favorable treatment provided by forward-looking public officials and present evidence of the allocative distortion of favorable treatment. Last, I show that revolving-door officials who have provided favorable government subsidies receive approximately 30\% more cash compensation than their peers, suggesting a form of quid pro quo relationship. 
+abstract: Established literature recognizes revolving-door hiring as a means for firms to obtain protection against political risks and advance business interests. This paper theorizes a cost of the political-business revolving door, which transmits uncertainty from the political system to firms in turbulent times. I empirically estimate the cost of revolving-door recruitment for over 3,000 publicly listed firms in the early years of a major corruption crackdown in China. I show that firm-level returns to revolving-door recruitment turn negative during this period. The cost of revolving door recruitment is larger in areas with high-profile corruption crackdowns and poorer market institutions. In contrast to the conventional corporate governance explanations, the mechanism proposed in this paper emphasizes external perceptions of firms. Analyses of over 1 million equity reports and bank loan records data show that political connections act as a negative signal for investors and lenders, thereby discouraging investment.
+
 
 summary: Under Review
 
-#tags: 
-#- Source Themes
+
+tags:
+- Source Themes
 featured: false
 
-#links:
+links:
 #- name: Custom Link
 #  url: http://example.org
-#url_pdf: 
+url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3497962
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
