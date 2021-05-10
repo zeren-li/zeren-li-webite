@@ -22,11 +22,11 @@ weight = 5
 
 **Data Science** <br/>
 
- - Unifying Data Science*, Lab Instructor and TA, Spring 2020. [Handouts and Code]() <br/>
+ - Unifying Data Science*, Lab Instructor and TA, Spring 2020. [Handouts and Code](https://www.unifyingdatascience.org/html/class_schedule.html) <br/>
 
 **Political Economy**  <br/>
 
- - Prisoner's Dilemma and Distributive Justice, Teaching Assistant, Fall 2018, Duke University.  <br/>
+ - Prisoner's Dilemma and Distributive Justice, Teaching Assistant, Fall 2018; Spring 2021, Duke University.  <br/>
 
  - Global Corruption, Teaching Assistant, Spring 2019, Duke University.  <br/>
 
