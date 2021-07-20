@@ -22,7 +22,7 @@ publication_short: ""
 abstract:This paper analyzes the distortionary effect of political career incentives on fiscal extraction. We argue that competitive promotion tournaments distort public officials’ career incentives, leading to excessive tax extraction efforts. We empirically estimate the magnitude of distortion by exploiting two institutional designs for political selection in China: the age threshold for promotion and regulated term limits. We find that a promotion tournament becomes more intense when prefectural party leaders enter their last promotion-eligible term (at 50-55 years old). Given fierce competition for career advancement, prefectural party leaders extract excessive fiscal revenue to demonstrate their competence, but they do not enhance economic performance or redistribution efforts.
 
 
-summary: Under Revision
+summary: Under Review
 
 tags:
 - Source Themes

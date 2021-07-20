@@ -1,5 +1,5 @@
 ---
-title: "Why do firms Hire Politicians: Evidence from Chinese Revolving-Door Officials"
+title: "Why Do Firms Hire Politicians: Evidence from Chinese Revolving-Door Officials"
 authors:
 - Zeren Li
 date: "2020-01-01T00:00:00Z"
