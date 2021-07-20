@@ -2,7 +2,7 @@
 title: "Why do firms Hire Politicians: Evidence from Chinese Revolving-Door Officials"
 authors:
 - Zeren Li
-date: "2020-09-05T00:00:00Z"
+date: "2020-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,10 +18,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract:
-
-  Existing literature provides enormous estimates of political connections on various political and economic outcomes. However, this paper focuses on the origins of firm-level political connections by analyzing how firms hire and compensate revolving-door officials. I 
-theorize that firms diversify their portfolio of revolving-door officials to obtain both political influence and issue-specific expertise simultaneously. To test this theory, I construct a unique database that contains standardized career experience of over 20,000 revolving-door officials who serve in the Chinese publicly listed firms from 2008 through 2016. Supporting the view of issue-specific expertise ("know-how"), findings show that firms offer higher cash compensation to revolving-door officials with issue-specific expertise than others without expertise. Supporting the view of political influence (know-who), firms offer more stock compensation to ex-officials with higher-ranked government positions.
+abstract: Existing literature provides enormous estimates of political connections on various political and economic outcomes. However, this paper focuses on the origins of firm-level political connections by analyzing how firms hire and compensate revolving-door officials. I theorize that firms diversify their portfolio of revolving-door officials to obtain both political influence and issue-specific expertise simultaneously. To test this theory, I construct a unique database that contains standardized career experience of over 20,000 revolving-door officials who serve in the Chinese publicly listed firms from 2008 through 2016. Supporting the view of issue-specific expertise ("know-how"), findings show that firms offer higher cash compensation to revolving-door officials with issue-specific expertise than others without expertise. Supporting the view of political influence (know-who), firms offer more stock compensation to ex-officials with higher-ranked government positions.
 summary: Under Revision
 
 tags:
