@@ -2,11 +2,11 @@
 title: "Subsidies for Sale: Post-government Career Concerns, Revolving-Door Channels, and Public Resource Misallocation in China"
 authors:
 - Zeren Li
-date: "2021-04-23T00:00:00Z"
+date: "2021-06-23T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-04-23T00:00:00Z"
+publishDate: "2021-06-23T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,7 +20,7 @@ publication_short: ""
 
 abstract: While the existing literature focuses on how revolving-door officials deliver favorable government treatment to firms after leaving public office, this paper theorizes that the post-government career concerns of public officials distort public resource allocation while still in office. To test this theory, I construct a new dataset that links over 98,000 corporate subsidy programs approved by multiple levels of governments with revolving-door officials who joined publicly listed Chinese firms between 2007 and 2019. I show that forward-looking officials provide sizable favorable subsidies to their future employers. To verify the exchange of favors, I document that firms repay public officials who have provided favorable subsidies by hiring and paying them enormous amounts of cash compensation. Finally, I find that the reputation cost is the mechanism through which this quid pro quo relationship is sustained.
 
-summary: Under Review
+summary: Job Market Paper, Under Review
 
 #tags: 
 #- Source Themes

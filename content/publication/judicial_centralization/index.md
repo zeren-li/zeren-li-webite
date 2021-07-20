@@ -1,12 +1,14 @@
 ---
-title: "Subsidies for Sale: Post-government Career Concerns, Revolving-Door Channels, and Public Resource Misallocation in China"
+title: "Judicial Recentralization as Political Control:
+A Difference-in-Differences Analysis of Judicial
+Leader Rotation in China"
 authors:
 - Zeren Li
-date: "2021-04-23T00:00:00Z"
+date: "2019-017-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-04-23T00:00:00Z"
+publishDate: "2019-01-10T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,7 +20,8 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: While the existing literature focuses on how revolving-door officials deliver favorable government treatment to firms after leaving public office, this paper theorizes that the post-government career concerns of public officials distort public resource allocation while still in office. To test this theory, I construct a new dataset that links over 98,000 corporate subsidy programs approved by multiple levels of governments with revolving-door officials who joined publicly listed Chinese firms between 2007 and 2019. I show that forward-looking officials provide sizable favorable subsidies to their future employers. To verify the exchange of favors, I document that firms repay public officials who have provided favorable subsidies by hiring and paying them enormous amounts of cash compensation. Finally, I find that the reputation cost is the mechanism through which this quid pro quo relationship is sustained.
+abstract: This study analyzes how authoritarian leaders use the judicial system to solve the principal-agent problem in the government hierarchy. We argue that autocrats recentralize court personnel to enhance the central government's monitoring power over local officials. We test this executive constraint theory using panel data on Chinese provincial-level court leaders who served from 2003 to 2012. Our empirical analysis takes advantage of a quasi-natural experiment in which the Chinese Communist Party recentralized court personnel by rotating provincial-level court leaders in 17 out of 31 provinces. We find that judicial recentralization increased adjudicated administrative lawsuits by nearly 30%, but it did not impact the approval of other lawsuits. We also show that judicial rotation increased the appearance of the executive in administrative lawsuits, providing additional support for the executive constraint theory.
+
 
 summary: Under Review
 
@@ -29,7 +32,7 @@ featured: false
 #links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839170
+url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3884714
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
