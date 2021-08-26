@@ -4,6 +4,7 @@ A Difference-in-Differences Analysis of Judicial
 Leader Rotation in China"
 authors:
 - Zeren Li
+- Zeyuan Wang
 date: "2019-017-10T00:00:00Z"
 doi: ""
 

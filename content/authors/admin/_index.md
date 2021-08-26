@@ -23,7 +23,7 @@ bio:
 
 education:
   courses:
-  - course: PhD in Political Science
+  - course: PhD in Political Science (Political Economy Track)
     institution: Duke University
     year: 2021
   - course: MPhil in Social Science
@@ -41,7 +41,8 @@ interests:
 - Chinese Politics
 - Data Science
 
-email: "zeren.li@duke.edu"
+
+email: "zeren.li@yale.edu"
 
 social:
 - icon: google-scholar
@@ -61,5 +62,6 @@ social:
 
 I am a Postdoctoral Associate in the [Leitner Program of Political Economy, MacMillan Center, Yale University](https://leitner.yale.edu/). My research focuses on business-government relations, bureaucracy, good governance, and authoritarian politics with a regional interest in China. Methodologically, I am interested in the "Big Data" analysis of state-business relations. For my dissertation and other research projects, I develop automated methods for collecting and matching extensive administrative data and create two original databases: the Chinese Revolving-Door Officials Database and the Chinese Public-Private Partnership Database. 
 
-My research has been funded by institutions including [National Science Foundation](https://politicalsciencenow.com/meet-zeren-li-2020-apsa-doctoral-dissertation-research-improvement-grantee/), [Google Cloud Platform](https://cloud.google.com/), [Chiang Ching-Kuo Foundation](http://cckf.org/en/news/2020060103), and other research grants.
+My research has been funded by institutions including [National Science Foundation](https://politicalsciencenow.com/meet-zeren-li-2020-apsa-doctoral-dissertation-research-improvement-grantee/), [Google Cloud Platform](https://cloud.google.com/), [Chiang Ching-Kuo Foundation](http://cckf.org/en/news/2020060103), and other research grants. 
+
 
