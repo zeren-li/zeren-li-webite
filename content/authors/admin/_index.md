@@ -53,7 +53,7 @@ social:
   link: https://github.com/zeren-li
 - icon: envelope
   icon_pack: fas
-  link: 'malilto:zeren.li@yale.edu'
+  link: 'mailto:zeren.li@yale.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/zeren_li
@@ -63,5 +63,7 @@ social:
 I am a Postdoctoral Associate in the [Leitner Program of Political Economy, MacMillan Center, Yale University](https://leitner.yale.edu/). My research focuses on business-government relations, bureaucracy, good governance, and authoritarian politics with a regional interest in China. Methodologically, I am interested in the "Big Data" analysis of state-business relations. For my dissertation and other research projects, I develop automated methods for collecting and matching extensive administrative data and create two original databases: the Chinese Revolving-Door Officials Database and the Chinese Public-Private Partnership Database. 
 
 My research has been funded by institutions including [National Science Foundation](https://politicalsciencenow.com/meet-zeren-li-2020-apsa-doctoral-dissertation-research-improvement-grantee/), [Google Cloud Platform](https://cloud.google.com/), [Chiang Ching-Kuo Foundation](http://cckf.org/en/news/2020060103), and other research grants. 
+
+You can reach me via email: [zeren.li@yale.edu](mailto:zeren.li@yale.edu).
 
 
