@@ -25,7 +25,8 @@ weight = 5
  - Unifying Data Science*, Lab Instructor and TA, Spring 2020. [Handouts and Code](https://www.unifyingdatascience.org/html/class_schedule.html) <br/>
 
 **Political Economy**  <br/>
-
+ - Business and Politics, Instructor, Spring 2022, Yale University. [Syllabus](https://www.dropbox.com/s/xgu73ak14dflzyf/Syllabus_Business_Politics.pdf?dl=0)<br/>
+ 
  - Prisoner's Dilemma and Distributive Justice, Teaching Assistant, Fall 2018; Spring 2021, Duke University.  <br/>
 
  - Global Corruption, Teaching Assistant, Spring 2019, Duke University.  <br/>
