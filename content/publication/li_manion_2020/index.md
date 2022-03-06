@@ -22,7 +22,7 @@ publication_short: ""
 abstract: Scholars typically treat corruption crackdowns in authoritarian regimes as coup-prooﬁng purges to eliminate rivals, but purges extending beyond top powerholders have broader impact than this logic implies. Wide-reaching purges grossly raise the cost of political error, thereby increasing risk reduction in decisionmaking throughout the system. We analyze decisions on political appointments before and during a massive corruption crackdown in China. We estimate the purge impact by analyzing 2013--2017 prefecture-year panel data on political turnover of communist party secretaries. We expect party bosses of these ofﬁcials to reduce perceived career risk by biasing appointments against their own clients, to signal they are not building factions, with variation in bias reﬂecting heterogeneity in intensity of Beijing’s purges. We ﬁnd the conditional effect of purge intensity on anti-client bias statistically signiﬁcant and sizable during this great purge, but not in previous smaller-scale anticorruption crackdowns. This study contributes to knowledge about purges under authoritarianism.
 
 
-summary: Under Review
+summary: R&R, *British Journal of Political Science*
 
 
 tags:
