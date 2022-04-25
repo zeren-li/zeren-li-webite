@@ -20,7 +20,7 @@ publication_short: ""
 
 abstract: While the existing literature has focused on how revolving-door officials deliver preferential treatment to firms after leaving public office, this paper shows that public officials distort public resource allocation for private-sector job opportunities while still in office. To test this theory, I construct a new dataset that links 168,550 corporate subsidy programs approved by multiple levels of governments with former officials who joined publicly listed Chinese firms between 2007 and 2019. I show that forward-looking officials provide favorable subsidies to their future employers. To verify the exchange of favors, I document that firms repay officials who have provided favorable subsidies by hiring and paying them enormous amounts of cash compensation. I show that the exchange of favors leads to salient allocation distortion of public resources. Finally, I find that the reputation cost is the mechanism through which this quid pro quo relationship is sustained.
 
-summary: Job Market Paper, Under Review
+summary: Job Market Paper, R&R, *Journal of Politics*
 
 #tags: 
 #- Source Themes
