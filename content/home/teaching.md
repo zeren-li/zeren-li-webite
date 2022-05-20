@@ -15,7 +15,7 @@ weight = 5
 +++
 
 **Political Economy**  <br/>
- - Business and Politics, Instructor, Spring 2022, Yale University. [Syllabus](https://www.dropbox.com/s/xgu73ak14dflzyf/Syllabus_Business_Politics.pdf?dl=0)<br/>
+ - Business and Politics, Instructor, Spring 2022, Yale University. [Syllabus](https://www.dropbox.com/s/latnw1iinriddry/Business_Politics.pdf?dl=0)<br/>
  
  - Prisoner's Dilemma and Distributive Justice, Teaching Assistant, Fall 2018; Spring 2021, Duke University.  <br/>
 
