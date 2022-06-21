@@ -1,13 +1,13 @@
 ---
-title: "The Last Strike: Evaluating the Distortionary Effect of Career Incentives on Taxation in China"
+title: "Markets Under Mao: The Persistence of Market Activity in Maoist China."
 authors:
+- Adam Frost
 - Zeren Li
-- Arthur Zeyang Yu
-date: "2022-06-14T00:00:00Z"
+date: "2020-06-23T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-06-14T00:00:00Z"
+publishDate: "2020-06-23T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,19 +19,18 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: This paper analyzes the distortionary effect of political career incentives on fiscal extraction. We argue that competitive promotion tournaments distort public officials’ career incentives, leading to excessive tax extraction efforts. We empirically estimate the magnitude of distortion by exploiting two institutional designs for political selection in China, the age threshold for promotion and regulated term limits. We find that a promotion tournament becomes more intense when prefectural party leaders enter their last promotion-eligible term (at 50-55 years old). Given fierce competition for career advancement, prefectural party leaders extract excessive fiscal revenue to demonstrate their competence, but they do not enhance economic performance or redistribution efforts.
+abstract: 
 
+summary: R&R, *The China Quarterly*
 
-summary: *Studies in Comparative International Development*, 2022
-
-tags:
-- Source Themes
+#tags: 
+#- Source Themes
 featured: false
 
-links:
+#links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3423451
+url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839170
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
