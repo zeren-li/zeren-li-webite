@@ -1,29 +1,27 @@
 ---
-title: "The Last Strike: Evaluating the Distortionary Effect of Career Incentives on Taxation in China"
+title: "The Last Strike: Age, Career Incentives and Taxation in China"
 authors:
 - Zeren Li
 - Arthur Zeyang Yu
-date: "2022-06-14T00:00:00Z"
+date: "2022-06-15T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-06-14T00:00:00Z"
+publishDate: "2020-06-15T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Studies in Comparative International Development"
 publication_short: ""
 
-abstract: This paper analyzes the distortionary effect of political career incentives on fiscal extraction. We argue that competitive promotion tournaments distort public officials’ career incentives, leading to excessive tax extraction efforts. We empirically estimate the magnitude of distortion by exploiting two institutional designs for political selection in China, the age threshold for promotion and regulated term limits. We find that a promotion tournament becomes more intense when prefectural party leaders enter their last promotion-eligible term (at 50-55 years old). Given fierce competition for career advancement, prefectural party leaders extract excessive fiscal revenue to demonstrate their competence, but they do not enhance economic performance or redistribution efforts.
+abstract: Enhancing taxation capacity is crucial to state building in developing countries. While numerous studies argue that political selection serves as a high-powered incentive mechanism for fiscal revenue collection, relevant empirical evidence is mixed. This study adopts a regression discontinuity (RD) design to estimate the magnitude of the career incentive effect by exploiting two institutional designs for political selection in China -- the age threshold for promotion and regulated term limits. By analyzing the age threshold to enter the last promotion-eligible term (50–55 years old), our RD design shows that prefectural party leaders extract additional fiscal revenue to demonstrate their competence. We also show empirical support for the political competition phenomenon in which promotion tournaments become more intense when prefectural party leaders enter their last promotion-eligible term.
 
-
-summary: *Studies in Comparative International Development*, 2022
-
+summary: "*Studies in Comparative International Development*, 2022"
 tags:
 - Source Themes
 featured: false
@@ -67,4 +65,3 @@ slides: example
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

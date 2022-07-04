@@ -2,11 +2,11 @@
 title: "Connections as Liabilities: The Cost of the Politics-Business Revolving Door in China"
 authors:
 - Zeren Li
-date: "2021-06-19T00:00:00Z"
+date: "2022-07-03T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-06-19T00:00:00Z"
+publishDate: "2022-06-03T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,7 +21,7 @@ publication_short: ""
 abstract: Established literature recognizes revolving-door hiring as a means for firms to obtain protection against political risks and advance business interests. This paper theorizes a cost of the political-business revolving door, which transmits uncertainty from the political system to firms in turbulent times. I empirically estimate the cost of revolving-door recruitment for over 3,000 publicly listed firms in the early years of a major corruption crackdown in China. I show that firm-level returns to revolving-door recruitment turn negative during this period. The cost of revolving door recruitment is larger in areas with high-profile corruption crackdowns and poorer market institutions. In contrast to the conventional corporate governance explanations, the mechanism proposed in this paper emphasizes external perceptions of firms. Analyses of over 1 million equity reports and bank loan records data show that political connections act as a negative signal for investors and lenders, thereby discouraging investment.
 
 
-summary: R&R, *British Journal of Political Science*
+summary: Forthcoming, *British Journal of Political Science*
 
 
 tags:
