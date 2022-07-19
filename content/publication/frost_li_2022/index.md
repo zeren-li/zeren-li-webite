@@ -30,7 +30,7 @@ featured: false
 #links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839170
+url_pdf: https://www.dropbox.com/s/fnk9xi11ssejcwm/Markets_Under_Mao.pdf?dl=0
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
