@@ -14,14 +14,14 @@
    weight = 1
 
 [[main]]
-  name = "Disseration"
+  name = "Book Project"
   url = "#featured"
-  weight = 2
+  weight = 3
 
 [[main]]
   name = "Research"
   url = "#publication"
-  weight = 3
+  weight = 2
 
 [[main]]
   name = "Data"
