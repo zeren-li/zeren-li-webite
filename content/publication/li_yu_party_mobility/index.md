@@ -3,11 +3,11 @@ title: "Within-Party Mobility and Economic Performance in Authoritarian Regimes:
 authors:
 - Zeren Li
 - Arthur Zeyang Yu
-date: "2020-07-15T00:00:00Z"
+date: "2021-07-15T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-07-15T00:00:00Z"
+publishDate: "2021-07-15T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,7 +22,7 @@ publication_short: ""
 abstract: This study analyses a mechanism to explain how internal mobility in the dominant party enhances authoritarian resilience. We argue that authoritarian leaders incentivize their political agents to advance economic development by using age-based promotion and retirement rules. We empirically examine our theoretical claim using China's cadre rejuvenation policy, which rewards younger leaders with more opportunities for career advancement. Drawing on panel data for prefectural party secretaries who were in office at some point between 2003 and 2012, we show that the principle of youthful rejuvenation leads the Party to grant more promotions to party leaders who enter office at a younger age than to their older counterparts. Under such an incentive scheme, the regions served by younger entrants into the officialdom have better economic performance than those served by older entrants, holding ability and other individual characteristics constant.
 
 
-summary: R\&R, *Party Politics*
+summary: Forthcoming, *Party Politics*
 tags:
 - Source Themes
 featured: false
