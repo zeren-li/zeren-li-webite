@@ -1,70 +1,42 @@
-+++
-# A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
+---
+widget: blank
+headless: true
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 2  # Order that this section will appear.
+title: Research
+subtitle:
+weight: 2
+design:
+  columns: '2'
+---
 
-title = "Research"
-subtitle = ""
+## Publications
 
-[content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
-  
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 0
-  
-  # Choose how many pages you would like to offset by
-  offset = 0
+"Connections as Liabilities: The Cost of the Politics-Business Revolving Door in China." *British Journal of Political Science*, forthcoming. [pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3497962)
 
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
 
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = false
-  
-[design]
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view = 2
-  
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-    
-  # Background color.
-  # color = "navy"
-  
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+"Party Mobility and Economic Performance in Authoritarian Regimes: Evidence from China." With [Arthur Zeyang Yu](https://arthurzeyangyu.github.io). *Party Politics*, forthcoming. [pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4011390)
 
-  # Text color (true=light or false=dark).
-  # text_color_light = true  
-  
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
+“The Last Strike: Age, Career Incentives and Taxation in China.” With [Arthur Zeyang Yu](https://arthurzeyangyu.github.io). *Studies in Comparative International Development*. 2022. [pdf](https://link.springer.com/article/10.1007/s12116-022-09356-x)
 
-+++
+"An Introduction to Procedural Rule in China's Provincial People's Congress." *Chinese Law \& Government*,  Vol.49 No.1, (2017): 1-4. [pdf](http://www.tandfonline.com/doi/full/10.1080/00094609.2017.1251771)
+
+## Working Papers
+
+"Subsidies for Sale: Post-government Career Concern, Revolving-Door Channels, and Public Resource Allocation in China." *Journal of Politics*, revise and resubmit. [pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839170)
+
+ "The Decline of Factions: The Impact of Purge on Political Appointments in China." With [Melanie Manion](https://sites.duke.edu/melaniemanion/). *British Journal of Political Science*, revise and resubmit. [pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3446354)
+
+"Markets Under Mao: The Persistence of Market Activity in Maoist China." With [Adam Frost](https://scholar.harvard.edu/adamkfrost/home). *The China Quarterly*, revise and resubmit. [pdf](https://www.dropbox.com/s/fnk9xi11ssejcwm/Markets_Under_Mao.pdf?dl=0)
+
+"Downward Power Consolidation and Public Investment: Theory and Evidence from China." With [Daniel Z. Li](https://danielzli.weebly.com) and [Qi Zhang](https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14262). Under review. [pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3893272)
+
+"Judicial Recentralization as Political Control:
+A Difference-in-Differences Analysis of Judicial
+Leader Rotation in China." With Zeyuan Wang. Under review. [pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3884714)
+
+
+
+
+
+
 
