@@ -19,7 +19,8 @@ weight = 5
   
 +++
 
-**Political Economy**  <br/>
+## Political Economy
+
  - Business and Politics, Instructor, Spring 2022, Yale University. [Syllabus](https://www.dropbox.com/s/latnw1iinriddry/Business_Politics.pdf?dl=0)<br/>
  
  - Prisoner's Dilemma and Distributive Justice, Teaching Assistant, Fall 2018; Spring 2021, Duke University.  <br/>
@@ -30,13 +31,13 @@ weight = 5
 
  - Introduction to Economics, Teaching Assistant, Spring 2015, Hong Kong University of Science and Technology.  <br/>
 
-**Quantative Methods**  <br/>
+## Quantative Methods
 
  - Probability and Regression*, Lab Instructor and TA, Fall 2019. [Handouts and Code](https://github.com/zeren-li/PS630-R-Lab) <br/>
 
  - Quantitative Analysis in Social Science*, Lab Instructor and TA, Fall 2019, Hong Kong University of Science and Technology. [Handouts and Code](https://github.com/zeren-li/PS630-R-Lab) <br/>
 
-**Data Science** <br/>
+## Data Science 
 
  - Unifying Data Science*, Lab Instructor and TA, Spring 2020. [Handouts and Code](https://www.unifyingdatascience.org/html/class_schedule.html) <br/>
 
