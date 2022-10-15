@@ -17,7 +17,7 @@ design:
 
 **"Within Party Mobility and Economic Performance in Authoritarian Regimes: Evidence from China."** With Arthur Zeyang Yu. *Party Politics*, 2022. [link](https://journals.sagepub.com/doi/abs/10.1177/13540688221122345)
 
-**“The Last Strike: Age, Career Incentives and Taxation in China.”** Arthur Zeyang Yu. *Studies in Comparative International Development*. 2022. [link](https://link.springer.com/article/10.1007/s12116-022-09356-x)
+**“The Last Strike: Age, Career Incentives and Taxation in China.”** With Arthur Zeyang Yu. *Studies in Comparative International Development*. 2022. [link](https://link.springer.com/article/10.1007/s12116-022-09356-x)
  
 **"An Introduction to Procedural Rule in China's Provincial People's Congress."** *Chinese Law \& Government*,  Vol.49 No.1, (2017): 1-4. [link](http://www.tandfonline.com/doi/full/10.1080/00094609.2017.1251771)
 
