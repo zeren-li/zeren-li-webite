@@ -15,7 +15,7 @@ design:
 
 **"Connections as Liabilities: The Cost of the Politics-Business Revolving Door in China."** *British Journal of Political Science*, forthcoming. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3497962)
 
-**"Within Party Mobility and Economic Performance in Authoritarian Regimes: Evidence from China."** With Arthur Zeyang Yu. *Party Politics*, 2022. [link](https://journals.sagepub.com/doi/abs/10.1177/13540688221122345)
+**"Within Party Mobility and Economic Performance in Authoritarian Regimes: Evidence from China."** With Arthur Zeyang Yu. *Party Politics*. 2022. [link](https://journals.sagepub.com/doi/abs/10.1177/13540688221122345)
 
 **“The Last Strike: Age, Career Incentives and Taxation in China.”** With Arthur Zeyang Yu. *Studies in Comparative International Development*. 2022. [link](https://link.springer.com/article/10.1007/s12116-022-09356-x)
  

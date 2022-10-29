@@ -23,6 +23,8 @@ weight = 5
 
  - Business and Politics, Instructor, Spring 2022, Yale University. [Syllabus](https://www.dropbox.com/s/latnw1iinriddry/Business_Politics.pdf?dl=0)<br/>
  
+ - Political Economy of China, Instructor, Spring 2023, Yale University. [Syllabus](https://www.dropbox.com/s/vyh7a48yx1orhx2/Syllabus_PE_China.pdf?dl=0)<br/>
+ 
  - Prisoner's Dilemma and Distributive Justice, Teaching Assistant, Fall 2018; Spring 2021, Duke University.  <br/>
 
  - Global Corruption, Teaching Assistant, Spring 2019, Duke University.  <br/>
