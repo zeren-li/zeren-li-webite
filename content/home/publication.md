@@ -29,12 +29,13 @@ design:
 
 **"Markets Under Mao: The Persistence of Market Activity in Maoist China."** With Adam Frost. *The China Quarterly*, revise and resubmit. [link](https://www.dropbox.com/s/fnk9xi11ssejcwm/Markets_Under_Mao.pdf?dl=0)
 
-**"A Privilege of the Rich? A Duality of Unequal Government Responsiveness in Urban China."** With Jiawei Fu and Haibin Yan, under review. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4253200)
-
-**"Judicial Recentralization as Political Control: A Difference-in-Differences Analysis of Judicial Leader Rotation in China."** With Zeyuan Wang, under review. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3884714)
+**"Judicial Recentralization as Political Control:
+A Difference-in-Differences Analysis of Judicial
+Leader Rotation in China."** With Zeyuan Wang. Under review. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3884714)
 
 ## Work in Progress
 
+**"A Privilege of the Rich? A Duality of Unequal Government Responsiveness in Urban China."** With Jiawei Fu and Haibin Yan.
 
 **"The State Strikes Back: The Distributional Consequence of Corruption Crackdown on Government Procurement in China."** With Songrui Liu.
 
