@@ -23,7 +23,7 @@ design:
 
 ## Working Papers
 
-**"Subsidies for Sale: Post-government Career Concern, Revolving-Door Channels, and Public Resource Allocation in China."** *Journal of Politics*, revise and resubmit. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839170)
+**"Subsidies for Sale: Post-government Career Concern, Revolving-Door Channels, and Public Resource Allocation in China."** *Journal of Politics*, conditionally accepted. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839170)
 
 **"Downward Power Consolidation and Public Investment: Theory and Evidence from China."** With Daniel Z. Li and Qi Zhang. *Journal of Economic Behavior and Organization*, revise and resubmit. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3893272)
 
