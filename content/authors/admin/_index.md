@@ -23,7 +23,7 @@ bio:
 
 education:
   courses:
-  - course: PhD in Political Science 
+  - course: PhD in Political Science (Political Economy Track)
     institution: Duke University
     year: 2021
   - course: MPhil in Social Science

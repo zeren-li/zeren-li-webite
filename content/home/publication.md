@@ -11,7 +11,7 @@ design:
 
 ## Publications
 
-**"The Decline of Factions: The Impact of Purge on Political Appointments in China."** With Melanie Manion. *British Journal of Political Science*, accepted. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3446354)
+**"The Decline of Factions: The Impact of Purge on Political Appointments in China."** With Melanie Manion. *British Journal of Political Science*, forthcoming. [link](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/decline-of-factions-the-impact-of-a-broad-purge-on-political-decision-making-in-china/F7DE172435D36DABBA3B51A26BC692EA)
 
 **"Connections as Liabilities: The Cost of the Politics-Business Revolving Door in China."** *British Journal of Political Science*, forthcoming. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3497962)
 
@@ -23,7 +23,7 @@ design:
 
 ## Working Papers
 
-**"Subsidies for Sale: Post-government Career Concern, Revolving-Door Channels, and Public Resource Allocation in China."** *Journal of Politics*, revise and resubmit. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839170)
+**"Subsidies for Sale: Post-government Career Concern, Revolving-Door Channels, and Public Resource Allocation in China."** *Journal of Politics*, conditionally accepted. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839170)
 
 **"Downward Power Consolidation and Public Investment: Theory and Evidence from China."** With Daniel Z. Li and Qi Zhang. *Journal of Economic Behavior and Organization*, revise and resubmit. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3893272)
 
