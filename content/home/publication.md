@@ -11,9 +11,9 @@ design:
 
 ## Publications
 
-**"The Decline of Factions: The Impact of Purge on Political Appointments in China."** With Melanie Manion. *British Journal of Political Science*, forthcoming. [link](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/decline-of-factions-the-impact-of-a-broad-purge-on-political-decision-making-in-china/F7DE172435D36DABBA3B51A26BC692EA)
+**"The Decline of Factions: The Impact of Purge on Political Appointments in China."** With Melanie Manion. *British Journal of Political Science*, 2022. [link](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/decline-of-factions-the-impact-of-a-broad-purge-on-political-decision-making-in-china/F7DE172435D36DABBA3B51A26BC692EA)
 
-**"Connections as Liabilities: The Cost of the Politics-Business Revolving Door in China."** *British Journal of Political Science*, forthcoming. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3497962)
+**"Connections as Liabilities: The Cost of the Politics-Business Revolving Door in China."** *British Journal of Political Science*, 2022. [link](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/connections-as-liabilities-the-cost-of-the-politicsbusiness-revolving-door-in-china/3E0CA07D3A4DF1369A1D00078492ABE3)
 
 **"Within Party Mobility and Economic Performance in Authoritarian Regimes: Evidence from China."** With Arthur Zeyang Yu. *Party Politics*. 2022. [link](https://journals.sagepub.com/doi/abs/10.1177/13540688221122345)
 
