@@ -25,9 +25,10 @@ design:
 
 **"Subsidies for Sale: Post-government Career Concern, Revolving-Door Channels, and Public Resource Allocation in China."** *Journal of Politics*, conditionally accepted. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839170)
 
-**"Downward Power Consolidation and Public Investment: Theory and Evidence from China."** With Daniel Z. Li and Qi Zhang. *Journal of Economic Behavior and Organization*, revise and resubmit. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3893272)
+**"Markets Under Mao: The Persistence of Market Activity in Maoist China."** With Adam Frost. *The China Quarterly*, conditionally accepted. [link](https://www.dropbox.com/s/fnk9xi11ssejcwm/Markets_Under_Mao.pdf?dl=0)
 
-**"Markets Under Mao: The Persistence of Market Activity in Maoist China."** With Adam Frost. *The China Quarterly*, revise and resubmit. [link](https://www.dropbox.com/s/fnk9xi11ssejcwm/Markets_Under_Mao.pdf?dl=0)
+**"Public Investment As Downward Benefit Distribution: Theory and Evidence from China's Public-Private Partnership Programs."** With Daniel Z. Li and Qi Zhang. *Journal of Economic Behavior and Organization*, revise and resubmit. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3893272)
+
 
 **"Judicial Recentralization as Political Control:
 A Difference-in-Differences Analysis of Judicial Leader Rotation in China."** With Zeyuan Wang. *Social Science Quarterly*, revise and resubmit. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3884714)
