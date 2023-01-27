@@ -37,7 +37,9 @@ A Difference-in-Differences Analysis of Judicial Leader Rotation in China."** Wi
 
 ## Work in Progress
 
-**"Favor With Fear: The Distributional Effect of Political Risk on Government Procurement in China."** With Songrui Liu.
+**"Favor With Fear: The Distributional Effect of Political Risk on Government Procurement in China."** With Songrui Liu. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4338925)
+
+
 
 
 
