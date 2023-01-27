@@ -33,11 +33,10 @@ design:
 **"Judicial Recentralization as Political Control:
 A Difference-in-Differences Analysis of Judicial Leader Rotation in China."** With Zeyuan Wang. *Social Science Quarterly*, revise and resubmit. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3884714)
 
-**"A Privilege of the Rich? A Duality of Unequal Government Responsiveness in Urban China."** With Jiawei Fu and Haibin Yan.[link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4253200)
-
-## Work in Progress
-
 **"Favor With Fear: The Distributional Effect of Political Risk on Government Procurement in China."** With Songrui Liu. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4338925)
+
+
+**"A Privilege of the Rich? A Duality of Unequal Government Responsiveness in Urban China."** With Jiawei Fu and Haibin Yan.[link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4253200)
 
 
 
