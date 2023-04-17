@@ -7,7 +7,7 @@ active = true  # Activate this widget? true/false
 weight = 3 # Order that this section will appear.
 
 title = "Book Project"
-subtitle = "Quid Pro Quo: The Political-Business Revolving Door in China"
+subtitle = "Red Quid Pro Quo: The Political-Business Revolving Door in China"
 
 +++
 

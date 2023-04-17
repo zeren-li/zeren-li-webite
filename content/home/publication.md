@@ -23,12 +23,12 @@ design:
 
 ## Working Papers
 
+**"Public Investment As Downward Benefit Distribution: Theory and Evidence from China's Public-Private Partnership Programs."** With Daniel Z. Li and Qi Zhang. *Journal of Economic Behavior and Organization*, forthcoming. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3893272)
+
 **"Subsidies for Sale: Post-government Career Concern, Revolving-Door Channels, and Public Resource Allocation in China."** *Journal of Politics*, conditionally accepted. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839170)
+- Winner of Kellogg/Notre Dame Award for Best Comparative Politics Paper at 2022 Midwest Political Science Association
 
 **"Markets Under Mao: The Persistence of Market Activity in Maoist China."** With Adam Frost. *The China Quarterly*, conditionally accepted. [link](https://www.dropbox.com/s/fnk9xi11ssejcwm/Markets_Under_Mao.pdf?dl=0)
-
-**"Public Investment As Downward Benefit Distribution: Theory and Evidence from China's Public-Private Partnership Programs."** With Daniel Z. Li and Qi Zhang. *Journal of Economic Behavior and Organization*, revise and resubmit. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3893272)
-
 
 **"Judicial Recentralization as Political Control:
 A Difference-in-Differences Analysis of Judicial Leader Rotation in China."** With Zeyuan Wang. *Social Science Quarterly*, revise and resubmit. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3884714)
