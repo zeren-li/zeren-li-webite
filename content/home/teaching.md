@@ -21,27 +21,29 @@ weight = 5
 
 ## Political Economy
 
- - Business and Politics, Instructor, Spring 2022, Yale University. [Syllabus](https://www.dropbox.com/s/latnw1iinriddry/Business_Politics.pdf?dl=0)<br/>
+ - Business and Politics, Instructor, National University of Singapore \& Yale University,. [Syllabus](https://www.dropbox.com/s/latnw1iinriddry/Business_Politics.pdf?dl=0)<br/>
  
- - Political Economy of China, Instructor, Spring 2023, Yale University. [Syllabus](https://www.dropbox.com/s/8qpuo4a34uxgr29/Syllabus_PE_China-2023_updated.pdf?dl=0)<br/>
+ - China and the Global Economy, Instructor, National University of Singapore.
  
- - Prisoner's Dilemma and Distributive Justice, Teaching Assistant, Fall 2018; Spring 2021, Duke University.  <br/>
+ - Political Economy of China, Instructor, Yale University. [Syllabus](https://www.dropbox.com/s/8qpuo4a34uxgr29/Syllabus_PE_China-2023_updated.pdf?dl=0)<br/>
+ 
+ - Prisoner's Dilemma and Distributive Justice, Teaching Assistant, Duke University.  <br/>
 
- - Global Corruption, Teaching Assistant, Spring 2019, Duke University.  <br/>
+ - Global Corruption, Teaching Assistant, Duke University.  <br/>
 
- - World of Politics, Teaching Assistant, Fall 2016, Hong Kong University of Science and Technology.  <br/>
+ - World of Politics, Teaching Assistant, Hong Kong University of Science and Technology.  <br/>
 
- - Introduction to Economics, Teaching Assistant, Spring 2015, Hong Kong University of Science and Technology.  <br/>
+ - Introduction to Economics, Teaching Assistant, Hong Kong University of Science and Technology.  <br/>
 
 ## Quantative Methods
 
- - Probability and Regression*, Lab Instructor and TA, Fall 2019. [Handouts and Code](https://github.com/zeren-li/PS630-R-Lab) <br/>
+ - Probability and Regression*, Lab Instructor and TA, Duke University. [Handouts and Code](https://github.com/zeren-li/PS630-R-Lab) <br/>
 
- - Quantitative Analysis in Social Science*, Lab Instructor and TA, Fall 2019, Hong Kong University of Science and Technology. [Handouts and Code](https://github.com/zeren-li/PS630-R-Lab) <br/>
+ - Quantitative Analysis in Social Science*, Lab Instructor and TA, Hong Kong University of Science and Technology. [Handouts and Code](https://github.com/zeren-li/PS630-R-Lab) <br/>
 
 ## Data Science 
 
- - Unifying Data Science*, Lab Instructor and TA, Spring 2020. [Handouts and Code](https://www.unifyingdatascience.org/html/class_schedule.html) <br/>
+ - Unifying Data Science*, Lab Instructor and TA, Duke University. [Handouts and Code](https://www.unifyingdatascience.org/html/class_schedule.html) <br/>
 
 
 \* Graduate-level

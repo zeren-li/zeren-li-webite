@@ -9,7 +9,7 @@ design:
   columns: '2'
 ---
 
-## Peer-review Articles
+## Peer-reviewed Articles
 
 **"Public Investment As Downward Benefit Distribution: Theory and Evidence from China's Public-Private Partnership Programs."** With Daniel Z. Li and Qi Zhang. *Journal of Economic Behavior and Organization*, 2023. [link](https://www.sciencedirect.com/science/article/pii/S0167268123000987?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=248459168&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM368176&utm_source=AC_)
 
