@@ -21,7 +21,7 @@ weight = 5
 
 ## Political Economy
 
- - Business and Politics, Instructor, National University of Singapore \& Yale University,. [Syllabus](https://www.dropbox.com/s/latnw1iinriddry/Business_Politics.pdf?dl=0)<br/>
+ - Business and Politics, Instructor, National University of Singapore \& Yale University. [Syllabus](https://www.dropbox.com/s/latnw1iinriddry/Business_Politics.pdf?dl=0)<br/>
  
  - China and the Global Economy, Instructor, National University of Singapore.
  
