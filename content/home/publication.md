@@ -42,8 +42,6 @@ A Difference-in-Differences Analysis of Judicial Leader Rotation in China."** Wi
 
 ## Working in Progress
 
-``Olson in China: Regional Chamber of Commerce, Political Access, and Firm Subsidies.'' With Shenghua Lu. 
-
 ``Patronage in Plagues: Government Intervention and Essential Business Selection in the COVID-19 Lockdown.'' With Ye Zhang.
 
 ``Why Do Firms Hire Politicians: Evidence from Chinese Revolving-Door Officials.''
